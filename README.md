@@ -28,3 +28,13 @@ TODO: Write usage instructions here
 3. Commit your changes (`git commit -am 'Added some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
+
+## Authors
+
+* Timo Lehto: http://github.com/iwalabs
+* Jussi Virtanen: http://github.com/iwalabs
+
+
+## License
+
+Copyright 2012 Iwa Labs Ltd. Licensed under the MIT License.
