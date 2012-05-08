@@ -31,8 +31,8 @@ TODO: Write usage instructions here
 
 ## Authors
 
-* Timo Lehto: http://github.com/iwalabs
-* Jussi Virtanen: http://github.com/iwalabs
+* Timo Lehto: http://github.com/timolehto
+* Jussi Virtanen: http://github.com/jusez
 
 
 ## License
